@@ -1,4 +1,4 @@
-[Linkedin](https://www.linkedin.com/in/abdul-hadi-447608159/)
+[hadiabdul13@gmail.com](hadiabdul13@gmail.com) | [Linkedin](https://www.linkedin.com/in/abdul-hadi-447608159/)
 
 # Enhancing Memory and Time Efficiency for Looping Statements in Python
 
