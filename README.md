@@ -1,3 +1,5 @@
+[Linkedin](https://www.linkedin.com/in/abdul-hadi-447608159/)
+
 # Enhancing Memory and Time Efficiency for Looping Statements in Python
 
 In this section, we evaluated the memory usage and time efficiency of looping statements using for and while loops, as well as yield as a generator function for both looping methods.
